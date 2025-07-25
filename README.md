@@ -1,4 +1,4 @@
-<img width="696" height="374" alt="hello" src="https://github.com/user-attachments/assets/2a49c86e-2148-47f1-b97a-4e3b5f7129ca" />
+<p align="center"><img width="696" height="374" alt="hello" src="https://github.com/user-attachments/assets/2a49c86e-2148-47f1-b97a-4e3b5f7129ca" /></p>
 
 <!--
 **hyuniverse/hyuniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
